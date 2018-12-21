@@ -1,7 +1,9 @@
 # Lego2LeJosEv3-Wack3m
 This is the LEGO Mindstorms EV3 **Wack3m Robot** example program in the Java programming language that uses a Java Implementation of _LEGO Mindstorms EV3 Programming Blocks (icons)_ on LeJOS EV3. 
 
-You can find the building instructions and the LEGO icon-based program of the _Wack3m Robot_ in LEGO's icon based (LabView-based) Programming Environment (Home Edition). The _Wack3m Robot_ is one of the Robot Remix models. You can download the LEGO Programming Environment at https://www.lego.com/en-us/mindstorms/downloads/download-software (or one of the other language pages).
+You can find the building instructions and the LEGO icon-based program of the _Wack3m Robot_ in LEGO's icon based (LabView-based) Programming Environment (Home Edition).
+The _Wack3m Robot_ is one of the Robot Remix models.
+You can download the LEGO Programming Environment at https://www.lego.com/en-us/mindstorms/downloads/download-software (or one of the other language pages).
 
 ## Dependencies
 This project depends on the **LEGO 2 LeJOS EV3** Library (see https://github.com/robl0377/Lego2LeJosEv3) that sits on top of the current version of the LeJOS EV3 framework. 
