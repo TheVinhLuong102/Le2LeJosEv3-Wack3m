@@ -1,7 +1,7 @@
 /**
  * 
  */
-package lego2lejosev3.robots.wackem;
+package le2lejosev3.robots.wackem;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -10,7 +10,7 @@ import java.io.InputStream;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import lego2lejosev3.logging.Setup;
+import le2lejosev3.logging.Setup;
 import lejos.hardware.Button;
 import lejos.hardware.ev3.LocalEV3;
 import lejos.hardware.lcd.GraphicsLCD;

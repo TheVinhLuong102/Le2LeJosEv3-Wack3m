@@ -1,22 +1,22 @@
 /**
  * 
  */
-package lego2lejosev3.robots.wackem;
+package le2lejosev3.robots.wackem;
 
 import java.util.logging.Logger;
 
-import lego2lejosev3.logging.Setup;
-import lego2lejosev3.pblocks.BrickStatusLight;
-import lego2lejosev3.pblocks.Change;
-import lego2lejosev3.pblocks.Display;
-import lego2lejosev3.pblocks.InfraredSensor;
-import lego2lejosev3.pblocks.LargeMotor;
-import lego2lejosev3.pblocks.MediumMotor;
-import lego2lejosev3.pblocks.Random;
-import lego2lejosev3.pblocks.Sound;
-import lego2lejosev3.pblocks.Timer;
-import lego2lejosev3.pblocks.TouchSensor;
-import lego2lejosev3.pblocks.Wait;
+import le2lejosev3.logging.Setup;
+import le2lejosev3.pblocks.BrickStatusLight;
+import le2lejosev3.pblocks.Change;
+import le2lejosev3.pblocks.Display;
+import le2lejosev3.pblocks.InfraredSensor;
+import le2lejosev3.pblocks.LargeMotor;
+import le2lejosev3.pblocks.MediumMotor;
+import le2lejosev3.pblocks.Random;
+import le2lejosev3.pblocks.Sound;
+import le2lejosev3.pblocks.Timer;
+import le2lejosev3.pblocks.TouchSensor;
+import le2lejosev3.pblocks.Wait;
 import lejos.hardware.Button;
 import lejos.hardware.port.MotorPort;
 import lejos.hardware.port.Port;
